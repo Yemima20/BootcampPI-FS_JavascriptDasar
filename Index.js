@@ -41,16 +41,16 @@ if (divisi === "CEO") {
 } else if (divisi === "Content Manager") {
     console.log("Jika saya sebagai Content Manager maka tugas saya adalah bertanggung jawab dalam merancang, mengelola, dan mengawasi strategi konten");
 } else {
-    console.log("Tugas dari divisi yang anda cari tidak ada");
+    console.log("Deskripsi tugas dari divisi di perusahaan startup belum tersedia");
 }
 
 // JS Dasar - Conditional nomor 2
 let a = 7;
 let b = 7;
 
-console.log("a lebih besar dari b: " + a > b);
-console.log("a lebih kecil dari b: " + a < b);
-console.log("a sama dengan b: " + a == b);
+console.log("a > b :", a > b);
+console.log("a < b :", a < b);
+console.log("a == b:", a == b);
 
 // JS Dasar - Conditional nomor 3
 let angkaPerHari = 7;
