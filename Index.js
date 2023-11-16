@@ -48,9 +48,9 @@ if (divisi === "CEO") {
 let a = 7;
 let b = 7;
 
-console.log(a > b);
-console.log(a < b);
-console.log(a == b);
+console.log("a lebih besar dari b: " + a > b);
+console.log("a lebih kecil dari b: " + a < b);
+console.log("a sama dengan b: " + a == b);
 
 // JS Dasar - Conditional nomor 3
 let angkaPerHari = 7;
